@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace AbstractVehicle
 {
-    class Car : Vehicle
+    class Truck : Vehicle
     {
         public override void run()
         {
-            Console.WriteLine("A car is used privately");
+            Console.WriteLine("A Truck carries goods");
             //throw new NotImplementedException();
         }
 
