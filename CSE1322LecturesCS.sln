@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractVehicle", "Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritedClass", "InheritedClass\InheritedClass.csproj", "{9C0B5B65-33FD-4B49-AC6D-390F3E1B9ADE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPrograms", "ArrayPrograms\ArrayPrograms.csproj", "{7B46DAC7-7046-4B3B-9BBB-6E5E9B2278D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{9C0B5B65-33FD-4B49-AC6D-390F3E1B9ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C0B5B65-33FD-4B49-AC6D-390F3E1B9ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C0B5B65-33FD-4B49-AC6D-390F3E1B9ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B46DAC7-7046-4B3B-9BBB-6E5E9B2278D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B46DAC7-7046-4B3B-9BBB-6E5E9B2278D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B46DAC7-7046-4B3B-9BBB-6E5E9B2278D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B46DAC7-7046-4B3B-9BBB-6E5E9B2278D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ArrayPrograms\bin\Debug\ArrayPrograms.exe.config
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ArrayPrograms\bin\Debug\ArrayPrograms.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ArrayPrograms\bin\Debug\ArrayPrograms.pdb
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ArrayPrograms\obj\Debug\ArrayPrograms.csprojAssemblyReference.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ArrayPrograms\obj\Debug\ArrayPrograms.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ArrayPrograms\obj\Debug\ArrayPrograms.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ArrayPrograms\obj\Debug\ArrayPrograms.pdb
