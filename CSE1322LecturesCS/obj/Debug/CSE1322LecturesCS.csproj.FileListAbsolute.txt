@@ -1,6 +1,0 @@
-c:\users\mhossa12\MH_VStudio\CSE1322LecturesCS\CSE1322LecturesCS\bin\Debug\CSE1322LecturesCS.exe.config
-c:\users\mhossa12\MH_VStudio\CSE1322LecturesCS\CSE1322LecturesCS\obj\Debug\CSE1322LecturesCS.csprojResolveAssemblyReference.cache
-c:\users\mhossa12\MH_VStudio\CSE1322LecturesCS\CSE1322LecturesCS\bin\Debug\CSE1322LecturesCS.exe
-c:\users\mhossa12\MH_VStudio\CSE1322LecturesCS\CSE1322LecturesCS\bin\Debug\CSE1322LecturesCS.pdb
-c:\users\mhossa12\MH_VStudio\CSE1322LecturesCS\CSE1322LecturesCS\obj\Debug\CSE1322LecturesCS.exe
-c:\users\mhossa12\MH_VStudio\CSE1322LecturesCS\CSE1322LecturesCS\obj\Debug\CSE1322LecturesCS.pdb

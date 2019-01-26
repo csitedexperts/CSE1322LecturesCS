@@ -22,6 +22,7 @@ namespace Lecture11Ex5
         static void B(ref Z x)
         {
             x = new Z();
+          //  Console.WriteLine(x);
             x.y = 1;
             Console.WriteLine(x.y);
         }
