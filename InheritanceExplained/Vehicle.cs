@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InheritedClass
+namespace InheritanceExplained
 {
-     class Vehicle
+     class Vehicle : Object   // For Java class Vehicle extends Object 
     {
 
         static int vehicleCount = 0;
@@ -15,16 +15,14 @@ namespace InheritedClass
         private int speed;
         private String color;
 
-         public  void run()
+        public static void run()
         {
-            Console.WriteLine("Vehicle::run() called");
-
+            Console.WriteLine("The run() called..");
         }
-        
 
         public Vehicle()
         {
-            //		Console.WriteLine("A vehicle object is created");
+            //		System.out.println("A vehicle object is created");
             vehicleCount++;
             Console.WriteLine("Vehicle(s) created: " + vehicleCount);
 
