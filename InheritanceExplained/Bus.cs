@@ -6,17 +6,19 @@ using System.Threading.Tasks;
 
 namespace InheritanceExplained
 {
-    class Truck: Vehicle
-     {
+    class Bus : Vehicle  // In Java :  class Car extends Vehicle
+    {
         public void run()
         {
-            Console.WriteLine("A Truck is mainly used for transporting goods...");
-            //throw new NotImplementedException();
-        }
+            Console.WriteLine("A bus is mainily used for transporting passengers");
 
-        public Truck()
+          
+        }
+        public Bus()
         {
 
         }
+
+
     }
 }

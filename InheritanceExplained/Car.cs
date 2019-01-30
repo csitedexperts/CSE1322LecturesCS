@@ -9,6 +9,10 @@ namespace InheritanceExplained
     class Car : Vehicle  // In Java :  class Car extends Vehicle 
     {
 
+        public Car()
+        {
+
+        }
         public void run()
         {
             Console.WriteLine("A car is mainly used privaterly...");

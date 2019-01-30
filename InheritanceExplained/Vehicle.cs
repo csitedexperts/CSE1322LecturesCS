@@ -28,6 +28,19 @@ namespace InheritanceExplained
 
         }
 
+        public Vehicle(int doors, int speed, String color)
+        {
+            this.doors = doors; this.speed = speed; this.color = color;
+
+        }
+
+        public override string ToString()
+        {
+           return base.ToString();
+
+        //    return Console.WriteLine("The fields are" + this.doors + "  " + this.speed + "  " + this.color);
+        }
+
         public int getDoors()
         {  // Getter -> ret
             return doors;
