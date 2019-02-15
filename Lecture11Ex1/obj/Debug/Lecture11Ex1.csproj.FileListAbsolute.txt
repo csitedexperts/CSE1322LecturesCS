@@ -5,3 +5,10 @@ C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex1\obj\Debug\Lecture11E
 C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex1\obj\Debug\Lecture11Ex1.csproj.CoreCompileInputs.cache
 C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex1\obj\Debug\Lecture11Ex1.exe
 C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex1\obj\Debug\Lecture11Ex1.pdb
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\Lecture11Ex1\bin\Debug\Lecture11Ex1.exe.config
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\Lecture11Ex1\bin\Debug\Lecture11Ex1.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\Lecture11Ex1\bin\Debug\Lecture11Ex1.pdb
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\Lecture11Ex1\obj\Debug\Lecture11Ex1.csprojAssemblyReference.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\Lecture11Ex1\obj\Debug\Lecture11Ex1.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\Lecture11Ex1\obj\Debug\Lecture11Ex1.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\Lecture11Ex1\obj\Debug\Lecture11Ex1.pdb

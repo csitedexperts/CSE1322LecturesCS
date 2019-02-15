@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPrograms", "ArrayProgr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceExplained", "InheritanceExplained\InheritanceExplained.csproj", "{22DFE3FE-5B7C-49E4-9FD3-32B4E1E14C3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringOperations", "StringOperations\StringOperations.csproj", "{A1DE2A62-DF70-49C2-8D03-A2061AD32984}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{22DFE3FE-5B7C-49E4-9FD3-32B4E1E14C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22DFE3FE-5B7C-49E4-9FD3-32B4E1E14C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22DFE3FE-5B7C-49E4-9FD3-32B4E1E14C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1DE2A62-DF70-49C2-8D03-A2061AD32984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DE2A62-DF70-49C2-8D03-A2061AD32984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DE2A62-DF70-49C2-8D03-A2061AD32984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DE2A62-DF70-49C2-8D03-A2061AD32984}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
