@@ -1,0 +1,7 @@
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritanceExplained\obj\Debug\InheritanceExplained.csprojAssemblyReference.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritanceExplained\obj\Debug\InheritanceExplained.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritanceExplained\bin\Debug\InheritanceExplained.exe.config
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritanceExplained\bin\Debug\InheritanceExplained.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritanceExplained\bin\Debug\InheritanceExplained.pdb
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritanceExplained\obj\Debug\InheritanceExplained.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritanceExplained\obj\Debug\InheritanceExplained.pdb
