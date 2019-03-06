@@ -14,14 +14,14 @@ namespace Lecture11Ex4
             Z myZ = new Z();
             myZ.y = 42;
             Console.WriteLine(myZ.y);
-            B(myZ);
-            Console.WriteLine(myZ.y);
+            B( myZ);
+            Console.WriteLine(myZ.y); 
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
         static void B(Z x)
         {
-            x.y += 9;
+            x.y = 1;
             Console.WriteLine(x.y);
         }
     }

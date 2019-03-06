@@ -1,0 +1,11 @@
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex42\bin\Debug\netcoreapp2.0\Lecture11Ex42.deps.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex42\bin\Debug\netcoreapp2.0\Lecture11Ex42.runtimeconfig.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex42\bin\Debug\netcoreapp2.0\Lecture11Ex42.runtimeconfig.dev.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex42\bin\Debug\netcoreapp2.0\Lecture11Ex42.dll
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex42\bin\Debug\netcoreapp2.0\Lecture11Ex42.pdb
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex42\obj\Debug\netcoreapp2.0\Lecture11Ex42.csprojAssemblyReference.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex42\obj\Debug\netcoreapp2.0\Lecture11Ex42.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex42\obj\Debug\netcoreapp2.0\Lecture11Ex42.AssemblyInfoInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex42\obj\Debug\netcoreapp2.0\Lecture11Ex42.AssemblyInfo.cs
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex42\obj\Debug\netcoreapp2.0\Lecture11Ex42.dll
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex42\obj\Debug\netcoreapp2.0\Lecture11Ex42.pdb

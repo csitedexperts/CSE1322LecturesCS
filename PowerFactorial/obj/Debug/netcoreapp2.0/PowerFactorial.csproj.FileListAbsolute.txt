@@ -1,0 +1,10 @@
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\PowerFactorial\bin\Debug\netcoreapp2.0\PowerFactorial.deps.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\PowerFactorial\bin\Debug\netcoreapp2.0\PowerFactorial.runtimeconfig.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\PowerFactorial\bin\Debug\netcoreapp2.0\PowerFactorial.runtimeconfig.dev.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\PowerFactorial\bin\Debug\netcoreapp2.0\PowerFactorial.dll
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\PowerFactorial\bin\Debug\netcoreapp2.0\PowerFactorial.pdb
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\PowerFactorial\obj\Debug\netcoreapp2.0\PowerFactorial.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\PowerFactorial\obj\Debug\netcoreapp2.0\PowerFactorial.AssemblyInfoInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\PowerFactorial\obj\Debug\netcoreapp2.0\PowerFactorial.AssemblyInfo.cs
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\PowerFactorial\obj\Debug\netcoreapp2.0\PowerFactorial.dll
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\PowerFactorial\obj\Debug\netcoreapp2.0\PowerFactorial.pdb

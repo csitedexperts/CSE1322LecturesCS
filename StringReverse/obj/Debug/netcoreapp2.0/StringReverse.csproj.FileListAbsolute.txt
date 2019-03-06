@@ -1,0 +1,11 @@
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\StringReverse\bin\Debug\netcoreapp2.0\StringReverse.deps.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\StringReverse\bin\Debug\netcoreapp2.0\StringReverse.runtimeconfig.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\StringReverse\bin\Debug\netcoreapp2.0\StringReverse.runtimeconfig.dev.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\StringReverse\bin\Debug\netcoreapp2.0\StringReverse.dll
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\StringReverse\bin\Debug\netcoreapp2.0\StringReverse.pdb
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\StringReverse\obj\Debug\netcoreapp2.0\StringReverse.csprojAssemblyReference.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\StringReverse\obj\Debug\netcoreapp2.0\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\StringReverse\obj\Debug\netcoreapp2.0\StringReverse.AssemblyInfoInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\StringReverse\obj\Debug\netcoreapp2.0\StringReverse.AssemblyInfo.cs
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\StringReverse\obj\Debug\netcoreapp2.0\StringReverse.dll
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\StringReverse\obj\Debug\netcoreapp2.0\StringReverse.pdb

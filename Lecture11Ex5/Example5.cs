@@ -19,11 +19,11 @@ namespace Lecture11Ex5
             Console.WriteLine(myZ.y);
             Console.ReadKey();
         }
-        static void B(ref Z x)
+        static void B(ref Z myZ)
         {
-            x = new Z();
-            x.y = 1;
-            Console.WriteLine(x.y);
+            //myZ = new Z();
+            myZ.y = 1;
+            Console.WriteLine(myZ.y);
         }
     }
 }

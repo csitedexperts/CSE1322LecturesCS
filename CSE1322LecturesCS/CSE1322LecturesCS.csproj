@@ -46,6 +46,7 @@
     <Compile Include="Lecture11Ex1.cs" />
     <Compile Include="HelloWorld.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

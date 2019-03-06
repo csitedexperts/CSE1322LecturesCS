@@ -3,3 +3,5 @@ c:\users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex4\bin\Debug\Lecture11E
 c:\users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex4\bin\Debug\Lecture11Ex4.pdb
 c:\users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex4\obj\Debug\Lecture11Ex4.exe
 c:\users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex4\obj\Debug\Lecture11Ex4.pdb
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex4\obj\Debug\Lecture11Ex4.csprojAssemblyReference.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Lecture11Ex4\obj\Debug\Lecture11Ex4.csproj.CoreCompileInputs.cache
