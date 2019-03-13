@@ -10,7 +10,7 @@ namespace AbstractVehicle
     {
         public override void run()
         {
-            Console.WriteLine("A car runs with an enine");
+            Console.WriteLine("A car is used privately");
             //throw new NotImplementedException();
         }
 

@@ -13,9 +13,9 @@ namespace Lecture11Ex1
             Console.WriteLine("Example1..........");
 
             int a = 42;
-            Console.WriteLine(a);
-            B(a);
-            Console.WriteLine(a);
+            Console.WriteLine(a);  // 42
+            B(a);  // ???  51 
+            Console.WriteLine(a);  // ????????????????????   
             Console.ReadKey();
 
         }
