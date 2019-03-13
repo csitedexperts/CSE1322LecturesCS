@@ -1,0 +1,7 @@
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Exception2_throw\bin\Debug\Exception2_throw.exe.config
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Exception2_throw\bin\Debug\Exception2_throw.exe
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Exception2_throw\bin\Debug\Exception2_throw.pdb
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Exception2_throw\obj\Debug\Exception2_throw.csprojAssemblyReference.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Exception2_throw\obj\Debug\Exception2_throw.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Exception2_throw\obj\Debug\Exception2_throw.exe
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\Exception2_throw\obj\Debug\Exception2_throw.pdb
