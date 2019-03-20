@@ -1,0 +1,7 @@
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\StringOperationsTest2\bin\Debug\StringOperationsTest2.exe.config
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\StringOperationsTest2\bin\Debug\StringOperationsTest2.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\StringOperationsTest2\bin\Debug\StringOperationsTest2.pdb
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\StringOperationsTest2\obj\Debug\StringOperationsTest2AB.csprojAssemblyReference.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\StringOperationsTest2\obj\Debug\StringOperationsTest2AB.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\StringOperationsTest2\obj\Debug\StringOperationsTest2.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\StringOperationsTest2\obj\Debug\StringOperationsTest2.pdb

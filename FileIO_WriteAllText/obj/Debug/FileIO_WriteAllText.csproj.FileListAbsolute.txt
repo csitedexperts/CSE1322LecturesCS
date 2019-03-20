@@ -1,0 +1,6 @@
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteAllText\obj\Debug\FileIO_WriteAllText.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteAllText\bin\Debug\FileIO_WriteAllText.exe.config
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteAllText\bin\Debug\FileIO_WriteAllText.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteAllText\bin\Debug\FileIO_WriteAllText.pdb
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteAllText\obj\Debug\FileIO_WriteAllText.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteAllText\obj\Debug\FileIO_WriteAllText.pdb
