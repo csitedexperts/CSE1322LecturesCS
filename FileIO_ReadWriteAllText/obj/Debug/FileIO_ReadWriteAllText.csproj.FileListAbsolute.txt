@@ -1,7 +1,0 @@
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteAllText\bin\Debug\FileIO_ReadWriteAllText.exe.config
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteAllText\bin\Debug\FileIO_ReadWriteAllText.exe
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteAllText\bin\Debug\FileIO_ReadWriteAllText.pdb
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteAllText\obj\Debug\FileIO_ReadWriteAllText.csproj.CoreCompileInputs.cache
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteAllText\obj\Debug\FileIO_ReadWriteAllText.exe
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteAllText\obj\Debug\FileIO_ReadWriteAllText.pdb
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteAllText\obj\Debug\FileIO_ReadWriteAllText.csprojAssemblyReference.cache

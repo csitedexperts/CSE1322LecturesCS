@@ -4,3 +4,4 @@ C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadAllText\bin\Debug\FileI
 C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadAllText\obj\Debug\FileIO_ReadAllText.csproj.CoreCompileInputs.cache
 C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadAllText\obj\Debug\FileIO_ReadAllText.exe
 C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadAllText\obj\Debug\FileIO_ReadAllText.pdb
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadAllText\obj\Debug\FileIO_ReadAllText.csprojAssemblyReference.cache

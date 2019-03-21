@@ -1,7 +1,0 @@
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteLineEx01\bin\Debug\FileIO_WriteLineEx01.exe.config
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteLineEx01\bin\Debug\FileIO_WriteLineEx01.exe
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteLineEx01\bin\Debug\FileIO_WriteLineEx01.pdb
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteLineEx01\obj\Debug\FileIO_WriteLineEx01.csproj.CoreCompileInputs.cache
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteLineEx01\obj\Debug\FileIO_WriteLineEx01.exe
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteLineEx01\obj\Debug\FileIO_WriteLineEx01.pdb
-C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_WriteLineEx01\obj\Debug\FileIO_WriteLineEx01.csprojAssemblyReference.cache

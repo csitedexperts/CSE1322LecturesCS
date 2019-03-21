@@ -10,7 +10,7 @@ namespace FileIO_ReadWriteByte
     class Program
     {
         static void Main(string[] args) {
-            String fileName = "C:\\Users\\mhossa12\\testt.txt";
+            String fileName = "./testt.txt";
 
             FileStream F = new FileStream(fileName, FileMode.OpenOrCreate, FileAccess.ReadWrite);
          

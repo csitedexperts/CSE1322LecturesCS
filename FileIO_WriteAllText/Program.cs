@@ -11,7 +11,7 @@ namespace FileIO_WriteAllText
     {
         static void Main(string[] args)
         {
-            String fileName = "C:\\Users\\mhossa12\\testt.txt";
+            String fileName = "./test.txt";
             String fileContent = null;
 
 
