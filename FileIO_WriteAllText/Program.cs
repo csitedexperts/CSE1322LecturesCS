@@ -22,6 +22,7 @@ namespace FileIO_WriteAllText
 
                 Console.WriteLine(fileContent);
             }
+
             Console.WriteLine("Please enter new content for the file:");
             String newContent = Console.ReadLine();
             File.WriteAllText(fileName, newContent);

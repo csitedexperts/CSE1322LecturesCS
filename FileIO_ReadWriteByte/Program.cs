@@ -10,14 +10,14 @@ namespace FileIO_ReadWriteByte
     class Program
     {
         static void Main(string[] args) {
-            String fileName = "./testt.txt";
+            String fileName = "test.txt";
 
             FileStream F = new FileStream(fileName, FileMode.OpenOrCreate, FileAccess.ReadWrite);
          
-         for (int i = 1; i <= 20; i++) {
+         for (int i = 0; i <= 20; i++) {
             F.WriteByte((byte) i);
          }
-
+         
             if (File.Exists(fileName))
             {
                 Console.WriteLine("The File " + fileName + " exists and contains");
