@@ -32,15 +32,9 @@ namespace ImplementStack
         {
             Node node = new Node(id, name);
 
-            if (top == null)
-            {
-                top = node;
-            }
-            else
-            {
                 node.next = top;
                 top = node;
-            }
+         
         }
 
         public void pop()
