@@ -1,0 +1,14 @@
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\InheritedClass\obj\Debug\InheritedClass.csprojAssemblyReference.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\InheritedClass\obj\Debug\InheritedClass.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\InheritedClass\bin\Debug\InheritedClass.exe.config
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\InheritedClass\bin\Debug\InheritedClass.exe
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\InheritedClass\bin\Debug\InheritedClass.pdb
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\InheritedClass\obj\Debug\InheritedClass.exe
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\InheritedClass\obj\Debug\InheritedClass.pdb
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritedClass\bin\Debug\InheritedClass.exe.config
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritedClass\bin\Debug\InheritedClass.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritedClass\bin\Debug\InheritedClass.pdb
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritedClass\obj\Debug\InheritedClass.csprojAssemblyReference.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritedClass\obj\Debug\InheritedClass.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritedClass\obj\Debug\InheritedClass.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\InheritedClass\obj\Debug\InheritedClass.pdb

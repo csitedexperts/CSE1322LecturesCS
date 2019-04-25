@@ -1,0 +1,7 @@
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\VehicleClass\obj\Debug\VehicleClass.csprojAssemblyReference.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\VehicleClass\obj\Debug\VehicleClass.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\VehicleClass\bin\Debug\VehicleClass.exe.config
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\VehicleClass\bin\Debug\VehicleClass.exe
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\VehicleClass\bin\Debug\VehicleClass.pdb
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\VehicleClass\obj\Debug\VehicleClass.exe
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\VehicleClass\obj\Debug\VehicleClass.pdb
