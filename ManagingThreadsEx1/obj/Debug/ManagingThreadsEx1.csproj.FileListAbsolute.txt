@@ -1,0 +1,6 @@
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ManagingThreadsEx1\bin\Debug\ManagingThreadsEx1.exe.config
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ManagingThreadsEx1\bin\Debug\ManagingThreadsEx1.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ManagingThreadsEx1\bin\Debug\ManagingThreadsEx1.pdb
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ManagingThreadsEx1\obj\Debug\ManagingThreadsEx1.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ManagingThreadsEx1\obj\Debug\ManagingThreadsEx1.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ManagingThreadsEx1\obj\Debug\ManagingThreadsEx1.pdb

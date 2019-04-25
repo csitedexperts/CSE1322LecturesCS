@@ -21,4 +21,7 @@ C:\Users\mhossa12\workspace\CSE1322LecturesCS\Lecture11Ex1\obj\Debug\Lecture11Ex
 C:\Users\mhossa12\workspace\CSE1322LecturesCS\Lecture11Ex1\obj\Debug\Lecture11Ex1.csproj.CoreCompileInputs.cache
 C:\Users\mhossa12\workspace\CSE1322LecturesCS\Lecture11Ex1\obj\Debug\Lecture11Ex1.exe
 C:\Users\mhossa12\workspace\CSE1322LecturesCS\Lecture11Ex1\obj\Debug\Lecture11Ex1.pdb
+<<<<<<< HEAD
 >>>>>>> e258febf3c8a164ceb6f484f0a5cd83c4eff3803
+=======
+>>>>>>> 68c207ba6b9b3061068c01c9f90de248ab65b2cb

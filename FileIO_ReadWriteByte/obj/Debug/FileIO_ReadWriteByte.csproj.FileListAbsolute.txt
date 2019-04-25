@@ -1,0 +1,7 @@
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteByte\bin\Debug\FileIO_ReadWriteByte.exe.config
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteByte\bin\Debug\FileIO_ReadWriteByte.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteByte\bin\Debug\FileIO_ReadWriteByte.pdb
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteByte\obj\Debug\FileIO_ReadWriteByte.csprojAssemblyReference.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteByte\obj\Debug\FileIO_ReadWriteByte.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteByte\obj\Debug\FileIO_ReadWriteByte.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\FileIO_ReadWriteByte\obj\Debug\FileIO_ReadWriteByte.pdb

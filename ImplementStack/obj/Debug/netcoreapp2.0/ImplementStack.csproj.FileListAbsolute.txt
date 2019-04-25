@@ -1,0 +1,11 @@
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementStack\bin\Debug\netcoreapp2.0\ImplementStack.deps.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementStack\bin\Debug\netcoreapp2.0\ImplementStack.runtimeconfig.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementStack\bin\Debug\netcoreapp2.0\ImplementStack.runtimeconfig.dev.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementStack\bin\Debug\netcoreapp2.0\ImplementStack.dll
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementStack\bin\Debug\netcoreapp2.0\ImplementStack.pdb
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementStack\obj\Debug\netcoreapp2.0\ImplementStack.csprojAssemblyReference.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementStack\obj\Debug\netcoreapp2.0\ImplementStack.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementStack\obj\Debug\netcoreapp2.0\ImplementStack.AssemblyInfoInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementStack\obj\Debug\netcoreapp2.0\ImplementStack.AssemblyInfo.cs
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementStack\obj\Debug\netcoreapp2.0\ImplementStack.dll
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementStack\obj\Debug\netcoreapp2.0\ImplementStack.pdb

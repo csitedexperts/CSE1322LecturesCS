@@ -1,0 +1,10 @@
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementQueue\obj\Debug\netcoreapp2.0\ImplementQueue.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementQueue\obj\Debug\netcoreapp2.0\ImplementQueue.AssemblyInfoInputs.cache
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementQueue\obj\Debug\netcoreapp2.0\ImplementQueue.AssemblyInfo.cs
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementQueue\bin\Debug\netcoreapp2.0\ImplementQueue.deps.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementQueue\bin\Debug\netcoreapp2.0\ImplementQueue.runtimeconfig.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementQueue\bin\Debug\netcoreapp2.0\ImplementQueue.runtimeconfig.dev.json
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementQueue\bin\Debug\netcoreapp2.0\ImplementQueue.dll
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementQueue\bin\Debug\netcoreapp2.0\ImplementQueue.pdb
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementQueue\obj\Debug\netcoreapp2.0\ImplementQueue.dll
+C:\Users\mhossa12\MH_VStudio\CSE1322LecturesCS\ImplementQueue\obj\Debug\netcoreapp2.0\ImplementQueue.pdb
