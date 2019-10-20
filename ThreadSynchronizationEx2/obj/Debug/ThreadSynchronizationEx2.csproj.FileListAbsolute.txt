@@ -1,0 +1,7 @@
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ThreadSynchronizationEx2\bin\Debug\ThreadSynchronizationEx2.exe.config
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ThreadSynchronizationEx2\bin\Debug\ThreadSynchronizationEx2.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ThreadSynchronizationEx2\bin\Debug\ThreadSynchronizationEx2.pdb
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ThreadSynchronizationEx2\obj\Debug\ThreadSynchronizationEx2.csprojAssemblyReference.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ThreadSynchronizationEx2\obj\Debug\ThreadSynchronizationEx2.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ThreadSynchronizationEx2\obj\Debug\ThreadSynchronizationEx2.exe
+C:\Users\mhossa12\workspace\CSE1322LecturesCS\ThreadSynchronizationEx2\obj\Debug\ThreadSynchronizationEx2.pdb
